@@ -1,10 +1,17 @@
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Damla
-I’m a passionate software engineer with a background in vibration and acoustics engineering, now focusing on backend development and automating processes. My journey has taken me from applying machine dynamics to mastering programming languages and frameworks, leading to a versatile skill set that bridges both fields.
+## 👋 Hi, I’m Damla
 
-🔧 Current Role: Software Engineer working on diverse backend projects involving Django, Spring, and more.  \
-📚 Learning & Growth: Continuously expanding my knowledge, currently with AWS, where I'm a certified Developer Associate.  \
-🤝 Collaboration: Enjoy working in agile teams, contributing to project planning, development, and continuous improvement.  \
-🚀 Passions: Solving technical challenges, learning new technologies, and optimizing processes for efficiency and reliability.
+I’m learning to engineer intelligent systems using **LLMs, RAG pipelines, and agentic AI frameworks**.  
+My focus is on building small, real-world tools to deeply understand how large language models reason, retrieve, and interact with tools.
+
+---
+
+### 🧭 What I'm Doing Now
+
+- 🧠 Practicing **LLM engineering** by building agents, chatbots, and summarization tools using OpenAI, HuggingFace, and LangChain  
+- 🔬 Exploring **agentic workflows** with OpenAI’s Agents SDK and custom tools  
+- 🔧 Working as a software engineer on backend projects involving Django, Spring, React and more  
+- 🛠️ AWS Certified Developer Associate  
+- 📐 Former vibration & acoustics engineer now building in software  
 
 ---
 
