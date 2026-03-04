@@ -33,12 +33,6 @@ the official docs run out.
 [LinkedIn](https://www.linkedin.com/in/damla-ikbal-hamurcu) · 
 [Dev.to](https://dev.to/hamurda)
 
-### 💬 Try My Live Chatbot
-
-Interact with an AI assistant that uses **LangChain RAG + OpenAI + Gemini** to retrieve relevant answers, evaluate tone and regenerate responses when needed.
-
-[![🧠 Career Chatbot](https://img.shields.io/badge/Career%20Chats%20App-blue?logo=huggingface&logoColor=yellow)](https://huggingface.co/spaces/tortoise-trainer/career-chats)
-
 <!--
 ### 💬 Try My Live Chatbot
 
