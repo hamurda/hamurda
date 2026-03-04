@@ -1,19 +1,37 @@
 ## 👋 Hi, I’m Damla
 
-I’m learning to engineer intelligent systems using **LLMs, RAG pipelines, and agentic AI frameworks**.  
-My focus is on building small, real-world tools to deeply understand how large language models reason, retrieve, and interact with tools.
+Backend engineer focused on Python and LLM integration. 
+I build real tools with AI APIs, write about what I actually learn, 
+and document the decisions that aren't in the docs.
+
+Currently: building a multi-tenant RAG chatbot in production, 
+writing a Dev.to series on the architecture decisions behind it.
 
 ---
 
-### 🧭 What I'm Doing Now
-
-- 🧠 Practicing **LLM engineering** by building agents, chatbots, and summarization tools using OpenAI, HuggingFace, and LangChain  
-- 🔬 Exploring **agentic workflows** with OpenAI’s Agents SDK and custom tools  
-- 🔧 Working as a software engineer on backend projects involving Django, Spring, React and more  
-- 🛠️ AWS Certified Developer Associate  
-- 📐 Former vibration & acoustics engineer now building in software  
+### 🛠️ What I Work With
+Python · FastAPI · Django · PostgreSQL · OpenAI API · Anthropic API · Google Gemini API  
+RAG systems · MCP servers · n8n · AWS · Docker
 
 ---
+
+### 🚀 Live Project
+**[Practice Quest](https://practice-quest.vercel.app)** — turns piano 
+practice tasks into fantasy adventure narratives using the OpenAI API
+
+---
+
+### ✍️ Writing
+I write about Python, LLM integration, and the messy middle where 
+the official docs run out.
+
+📖 [Dev.to: Multi-Tenant AI Chatbot Series](https://dev.to/hamurda)
+
+---
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/damla-ikbal-hamurcu) · 
+[Dev.to](https://dev.to/hamurda)
 
 ### 💬 Try My Live Chatbot
 
@@ -22,6 +40,12 @@ Interact with an AI assistant that uses **LangChain RAG + OpenAI + Gemini** to r
 [![🧠 Career Chatbot](https://img.shields.io/badge/Career%20Chats%20App-blue?logo=huggingface&logoColor=yellow)](https://huggingface.co/spaces/tortoise-trainer/career-chats)
 
 <!--
+### 💬 Try My Live Chatbot
+
+Interact with an AI assistant that uses **LangChain RAG + OpenAI + Gemini** to retrieve relevant answers, evaluate tone and regenerate responses when needed.
+
+[![🧠 Career Chatbot](https://img.shields.io/badge/Career%20Chats%20App-blue?logo=huggingface&logoColor=yellow)](https://huggingface.co/spaces/tortoise-trainer/career-chats)
+
 **hamurda/hamurda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
